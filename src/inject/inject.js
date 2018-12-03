@@ -10,7 +10,7 @@ var playerDownloadButton = function () {
 
 	btn.css({
 		float: 'right',
-		background: '#E91E63',
+		background: '#FF0000',
 		marginRight: '-30px',
 		marginTop: '-3px',
 	});
@@ -63,7 +63,7 @@ var addDownloadButtonToAllSongs = function () {
 			marginLeft: '7px',
 			fontSize: '8px',
 			padding: '1px 11px',
-			background: '#E91E63'
+			background: '#FF0000'
 		});
 
 		btn.on('click', function (e) {
