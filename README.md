@@ -1,13 +1,12 @@
-# Saavn Song Downloader Chrome Extension
+# JioSaavn Song Downloader Chrome Extension
 
-![Song Quality Selector](https://i.imgur.com/UP8IyU2.png)
-![Downloads](https://i.imgur.com/9l0QUJg.png)
-![Single Song Download](https://i.imgur.com/PC5LPRJ.png)
-![Bulk Song Download](https://i.imgur.com/pHaMw05.png)
+![Song Quality Selector](https://i.ibb.co/0Xgm001/Screenshot-1.png)
+![Downloads](https://i.ibb.co/KswRTGr/Screenshot-2.png)
+![Downloads](https://i.ibb.co/Fsf0Dz6/Screenshot-3.png)
+![Single Song Download](https://i.ibb.co/tHfNZtT/Screenshot-9.png)
+![Bulk Song Download](https://i.ibb.co/MM4Y9F2/Screenshot-11.png)
 
-This Extension will allow you to download any song, album or playlist in saavn seamlessly and easily. 
-
-Hritwik Singhal also uploaded this extension on Firefox. [Here is the link](https://addons.mozilla.org/en-US/firefox/addon/saavn-song-downloader/).
+This Extension will allow you to download any song, album or playlist in JioSaavn (previously Saavn) seamlessly and easily.
 
 ## Features
 
@@ -27,7 +26,7 @@ Hritwik Singhal also uploaded this extension on Firefox. [Here is the link](http
 
 this extension is currently not hosted in chrome webstore, so you will have to install it manually on chrome. below are the steps
 
-- download the extension here : [download](https://github.com/naqushab/saavn-downloader-extension/archive/master.zip)
+- download the extension here : [download](https://github.com/justiriser/JioSaavn-Downloader-Chrome-Extension/archive/master.zip)
 - extract the zip file
 - go to chrome extensions page [chrome://extensions/](chrome://extensions/)
 - you will see a button called "Load Unpacked Extension.." click that
@@ -71,3 +70,7 @@ Album, Playlist
 - Will download all Songs asynchronously as mentioned above.
 - We will make a virtual zip on memory and create a folder and add the songs there.
 - Download the Zip
+
+### What's New
+- Support for JioSaavn.com (previously Saavn.com)
+- Minor Modifications
